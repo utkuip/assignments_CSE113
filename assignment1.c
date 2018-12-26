@@ -23,7 +23,7 @@ If the person is at least 20 years old, he or she is an adult.
 int main() {
 	int age;
 	printf("Please enter your age: \n");
-	scanf("%d",&x);
+	scanf("%d",&age);
 	
 	while(age<0){
 
