@@ -42,7 +42,7 @@ int main() {
 	}else if (age<20){
 
 		printf("You are teenager.");
-
+ 
 	}else 
 				  printf("You are adult.");			 
         return 0;
